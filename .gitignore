@@ -1,0 +1,13 @@
+# ❌ Don't track env secrets
+.env
+
+# 🔥 Ignore Python cache
+__pycache__/
+*.pyc
+
+# 😴 Ignore system files
+.DS_Store
+
+# 💼 Optional: ignore logs & local setup
+*.log
+
